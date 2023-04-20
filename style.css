@@ -35,7 +35,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2em 0;
+    padding: 3em 0;
     flex-direction: column;
     font-family: var(--ff);
 }
@@ -61,7 +61,7 @@ img {
 
 .phone-card {
     background-color: var(--white);
-    width: min(90%, 400px);
+    width: min(80%, 400px);
     border-radius: 30px;
     border: 15px solid white;
     position: relative;
